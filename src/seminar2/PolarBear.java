@@ -16,5 +16,4 @@ public abstract class PolarBear extends Bear{
 		return POLAR_BEAR_SPEED;
 	}
 	
-	
 }
